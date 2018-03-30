@@ -2,6 +2,9 @@
 SMARS modular robot è un idea di @SMARSbot.
 SMARS acronym of “Screwless/Screwed Modular Assemblable Robotic System” is a simple robot designed to the educational field. The main features of SMARS are the reduced number of components, the possibility of mount it without screws and soldering any
 
+# Info su librerie esterne ad Arduino
+Per usare il codice è necessario aggiungere nelle librerie di Arduino "Adafruit Motor Shield library" per "Adafruit Motor shield V1" se usate questa shield motor shield.
+E' possibile reperire tali librerie da https://goo.gl/tsiYVq
 
 # Credit
 Francesco Madeo 
